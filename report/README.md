@@ -8,7 +8,7 @@ Note the following is an example outline to help you. Please rework as you need.
 
 ## Introduction
 
-This paper discusses AVL trees, invented in 1962 and named after its inventors - G.M. Adelson-Velsky and E.M. Landis[^1]. It solves the problem of binary search trees becoming easily becoming unbalanced, and its poor performance in dealing with sorted or nearly-sorted data. In its average case, Binary Search Trees will find an object in $O(h)$ time, where h is the height of the tree (distance from the root to the furthest leaf)[^2]. In its worse case, though, a binary tree could have a height of $n$ if you were to insert data that was sorted in ascending or descending order. For example, inserting the data set {1, 2, 3, 4, 5} into a BST would end up looking like the attached image.
+This paper discusses AVL trees, invented in 1962 and named after its inventors - G.M. Adelson-Velsky and E.M. Landis[^1]. It solves the problem of binary search trees becoming easily becoming unbalanced, and its poor performance in dealing with sorted or nearly-sorted data. In its average case, Binary Search Trees will find an object in $O(h)$ time, where h is the height of the tree (distance from the root to the furthest leaf)[^2]. In its worst case, though, a binary tree could have a height of $n$ if you were to insert data that was sorted in ascending or descending order. For example, inserting the data set {1, 2, 3, 4, 5} into a BST would end up looking like the attached image.
 
 <img src="./images/ascending_skewed_bst.png" alt="image" width="25%" height="auto">
 
