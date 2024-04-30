@@ -1,0 +1,1101 @@
+(DEBUG): Logging level set to Debug
+(DEBUG): Output file set to results_sorted.csv
+(INFO): Starting Speed Compare: Input File: ./speed_test_files/sorted_list.txt, Output File: results_sorted.csv, Testing Increments: 1000
+(INFO): Loading movies from file: ./speed_test_files/sorted_list.txt into a MovieVector
+(INFO): Loaded 99998 movies from file: ./speed_test_files/sorted_list.txt
+(INFO): Running Tests on 1000 movies
+(INFO): Adding movies 1000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.000407
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.010648
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 1000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.705000
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.000312
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.008229
+(INFO): Writing movies 1000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.000218
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.000214
+(INFO): Removing movies 1000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.704000
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.000556
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.010864
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 2000 movies
+(INFO): Adding movies 2000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.000862
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.047078
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 2000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.705000
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.000627
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.031395
+(INFO): Writing movies 2000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.000450
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.000414
+(INFO): Removing movies 2000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.705500
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.001730
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.046897
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 3000 movies
+(INFO): Adding movies 3000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.001692
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.086222
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 3000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.706333
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.001138
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.104440
+(INFO): Writing movies 3000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.000667
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.000622
+(INFO): Removing movies 3000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.709667
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.002128
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.107781
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 4000 movies
+(INFO): Adding movies 4000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.002357
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.176991
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 4000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.711250
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.001146
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.119130
+(INFO): Writing movies 4000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.000625
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.000708
+(INFO): Removing movies 4000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.709750
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.002858
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.141852
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 5000 movies
+(INFO): Adding movies 5000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.001619
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.208765
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 5000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.714000
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.001467
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.193190
+(INFO): Writing movies 5000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001062
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001052
+(INFO): Removing movies 5000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.715800
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.002617
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.227744
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 6000 movies
+(INFO): Adding movies 6000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.002181
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.291295
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 6000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.718833
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.001794
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.263893
+(INFO): Writing movies 6000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.000718
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.000920
+(INFO): Removing movies 6000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.718667
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.010175
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.308738
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 7000 movies
+(INFO): Adding movies 7000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.003939
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.384450
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 7000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.721857
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.002151
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.345729
+(INFO): Writing movies 7000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.000802
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001006
+(INFO): Removing movies 7000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.721714
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.004322
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.430297
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 8000 movies
+(INFO): Adding movies 8000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.004044
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.504253
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 8000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.724375
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.002694
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.472818
+(INFO): Writing movies 8000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.000955
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001166
+(INFO): Removing movies 8000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.726000
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.015241
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.555814
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 9000 movies
+(INFO): Adding movies 9000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.004476
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.641544
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 9000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.726667
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.003245
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.577746
+(INFO): Writing movies 9000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001038
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001284
+(INFO): Removing movies 9000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.729333
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.005224
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.727321
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 10000 movies
+(INFO): Adding movies 10000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.004752
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.817335
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 10000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.729700
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.003525
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.735814
+(INFO): Writing movies 10000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001184
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001304
+(INFO): Removing movies 10000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.729300
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.006633
+(DEBUG): Removing bst
+(DEBUG): ...result was 0.876805
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 11000 movies
+(INFO): Adding movies 11000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.004061
+(DEBUG): Adding to bst
+(DEBUG): ..result was 0.933051
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 11000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.731091
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.003747
+(DEBUG): Searching bst
+(DEBUG): ...result was 0.864853
+(INFO): Writing movies 11000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001231
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001624
+(INFO): Removing movies 11000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.732455
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.012740
+(DEBUG): Removing bst
+(DEBUG): ...result was 1.044422
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 12000 movies
+(INFO): Adding movies 12000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.006117
+(DEBUG): Adding to bst
+(DEBUG): ..result was 1.105836
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 12000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.735000
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.004153
+(DEBUG): Searching bst
+(DEBUG): ...result was 1.043395
+(INFO): Writing movies 12000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001304
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001703
+(INFO): Removing movies 12000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.737667
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.007063
+(DEBUG): Removing bst
+(DEBUG): ...result was 1.251850
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 13000 movies
+(INFO): Adding movies 13000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.007182
+(DEBUG): Adding to bst
+(DEBUG): ..result was 1.299345
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 13000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.736846
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.004486
+(DEBUG): Searching bst
+(DEBUG): ...result was 1.231480
+(INFO): Writing movies 13000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001685
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001921
+(INFO): Removing movies 13000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.737846
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.009328
+(DEBUG): Removing bst
+(DEBUG): ...result was 1.482390
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 14000 movies
+(INFO): Adding movies 14000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.007670
+(DEBUG): Adding to bst
+(DEBUG): ..result was 1.511553
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 14000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.741929
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.004829
+(DEBUG): Searching bst
+(DEBUG): ...result was 1.411742
+(INFO): Writing movies 14000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001834
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.001898
+(INFO): Removing movies 14000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.740857
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.008835
+(DEBUG): Removing bst
+(DEBUG): ...result was 1.779836
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 15000 movies
+(INFO): Adding movies 15000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.007921
+(DEBUG): Adding to bst
+(DEBUG): ..result was 1.742742
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 15000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.744600
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.005250
+(DEBUG): Searching bst
+(DEBUG): ...result was 1.628788
+(INFO): Writing movies 15000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001923
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.002160
+(INFO): Removing movies 15000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.744400
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.011770
+(DEBUG): Removing bst
+(DEBUG): ...result was 1.982749
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 16000 movies
+(INFO): Adding movies 16000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.008674
+(DEBUG): Adding to bst
+(DEBUG): ..result was 1.969421
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 16000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.749125
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.005758
+(DEBUG): Searching bst
+(DEBUG): ...result was 1.951816
+(INFO): Writing movies 16000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001986
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.002319
+(INFO): Removing movies 16000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.747125
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.013364
+(DEBUG): Removing bst
+(DEBUG): ...result was 2.314788
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 17000 movies
+(INFO): Adding movies 17000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.009315
+(DEBUG): Adding to bst
+(DEBUG): ..result was 2.082723
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 17000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.750471
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.006417
+(DEBUG): Searching bst
+(DEBUG): ...result was 2.109930
+(INFO): Writing movies 17000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.001925
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.002447
+(INFO): Removing movies 17000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.751118
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.015563
+(DEBUG): Removing bst
+(DEBUG): ...result was 2.529382
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 18000 movies
+(INFO): Adding movies 18000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.009659
+(DEBUG): Adding to bst
+(DEBUG): ..result was 2.599570
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 18000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.752611
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.007412
+(DEBUG): Searching bst
+(DEBUG): ...result was 2.466978
+(INFO): Writing movies 18000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.002143
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.002596
+(INFO): Removing movies 18000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.754111
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.013211
+(DEBUG): Removing bst
+(DEBUG): ...result was 2.963650
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 19000 movies
+(INFO): Adding movies 19000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.009743
+(DEBUG): Adding to bst
+(DEBUG): ..result was 2.801778
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 19000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.755632
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.007247
+(DEBUG): Searching bst
+(DEBUG): ...result was 2.700044
+(INFO): Writing movies 19000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.002177
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.002899
+(INFO): Removing movies 19000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.757474
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.014048
+(DEBUG): Removing bst
+(DEBUG): ...result was 3.158818
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 20000 movies
+(INFO): Adding movies 20000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.010603
+(DEBUG): Adding to bst
+(DEBUG): ..result was 3.236302
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 20000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.760450
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.007418
+(DEBUG): Searching bst
+(DEBUG): ...result was 3.117546
+(INFO): Writing movies 20000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.002898
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.002786
+(INFO): Removing movies 20000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.760950
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.015353
+(DEBUG): Removing bst
+(DEBUG): ...result was 3.693820
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 21000 movies
+(INFO): Adding movies 21000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.010328
+(DEBUG): Adding to bst
+(DEBUG): ..result was 3.595257
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 21000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.763381
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.006542
+(DEBUG): Searching bst
+(DEBUG): ...result was 2.942270
+(INFO): Writing movies 21000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.003045
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.003176
+(INFO): Removing movies 21000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.758381
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.016902
+(DEBUG): Removing bst
+(DEBUG): ...result was 3.961268
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 22000 movies
+(INFO): Adding movies 22000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.011553
+(DEBUG): Adding to bst
+(DEBUG): ..result was 3.896608
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 22000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.766818
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.013684
+(DEBUG): Searching bst
+(DEBUG): ...result was 3.710305
+(INFO): Writing movies 22000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.002819
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.003198
+(INFO): Removing movies 22000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.763773
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.018713
+(DEBUG): Removing bst
+(DEBUG): ...result was 4.524312
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 23000 movies
+(INFO): Adding movies 23000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.013700
+(DEBUG): Adding to bst
+(DEBUG): ..result was 4.391421
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 23000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.772261
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.008975
+(DEBUG): Searching bst
+(DEBUG): ...result was 4.279932
+(INFO): Writing movies 23000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.004164
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.003857
+(INFO): Removing movies 23000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.767913
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.021232
+(DEBUG): Removing bst
+(DEBUG): ...result was 5.183195
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 24000 movies
+(INFO): Adding movies 24000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.010462
+(DEBUG): Adding to bst
+(DEBUG): ..result was 4.588758
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 24000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.770375
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.009345
+(DEBUG): Searching bst
+(DEBUG): ...result was 4.316460
+(INFO): Writing movies 24000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.002637
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.003752
+(INFO): Removing movies 24000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.771375
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.019945
+(DEBUG): Removing bst
+(DEBUG): ...result was 5.237024
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 25000 movies
+(INFO): Adding movies 25000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.013575
+(DEBUG): Adding to bst
+(DEBUG): ..result was 4.950337
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 25000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.774760
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.009670
+(DEBUG): Searching bst
+(DEBUG): ...result was 4.708222
+(INFO): Writing movies 25000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.003158
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.003383
+(INFO): Removing movies 25000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.773760
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.018392
+(DEBUG): Removing bst
+(DEBUG): ...result was 5.645952
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 26000 movies
+(INFO): Adding movies 26000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.010867
+(DEBUG): Adding to bst
+(DEBUG): ..result was 5.366656
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 26000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.776538
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.010374
+(DEBUG): Searching bst
+(DEBUG): ...result was 4.784884
+(INFO): Writing movies 26000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.002983
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.003636
+(INFO): Removing movies 26000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.780077
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.023607
+(DEBUG): Removing bst
+(DEBUG): ...result was 6.011607
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 27000 movies
+(INFO): Adding movies 27000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.013745
+(DEBUG): Adding to bst
+(DEBUG): ..result was 5.763322
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 27000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.779926
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.010568
+(DEBUG): Searching bst
+(DEBUG): ...result was 5.161940
+(INFO): Writing movies 27000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.002867
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.003945
+(INFO): Removing movies 27000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.781926
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.020265
+(DEBUG): Removing bst
+(DEBUG): ...result was 6.423704
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 28000 movies
+(INFO): Adding movies 28000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.013942
+(DEBUG): Adding to bst
+(DEBUG): ..result was 6.215904
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 28000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.783143
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.011499
+(DEBUG): Searching bst
+(DEBUG): ...result was 5.532537
+(INFO): Writing movies 28000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.003043
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.004225
+(INFO): Removing movies 28000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.782179
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.019737
+(DEBUG): Removing bst
+(DEBUG): ...result was 6.869928
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 29000 movies
+(INFO): Adding movies 29000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.015576
+(DEBUG): Adding to bst
+(DEBUG): ..result was 6.669648
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 29000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.786207
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.011954
+(DEBUG): Searching bst
+(DEBUG): ...result was 5.946914
+(INFO): Writing movies 29000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.003357
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.004321
+(INFO): Removing movies 29000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.788793
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.021179
+(DEBUG): Removing bst
+(DEBUG): ...result was 7.435135
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 30000 movies
+(INFO): Adding movies 30000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.015022
+(DEBUG): Adding to bst
+(DEBUG): ..result was 7.293413
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 30000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.790600
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.013024
+(DEBUG): Searching bst
+(DEBUG): ...result was 6.591262
+(INFO): Writing movies 30000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.003561
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.004070
+(INFO): Removing movies 30000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.790100
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.026165
+(DEBUG): Removing bst
+(DEBUG): ...result was 8.012149
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 31000 movies
+(INFO): Adding movies 31000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.015814
+(DEBUG): Adding to bst
+(DEBUG): ..result was 7.485789
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 31000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.793452
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.012505
+(DEBUG): Searching bst
+(DEBUG): ...result was 6.663140
+(INFO): Writing movies 31000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.003858
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.004412
+(INFO): Removing movies 31000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.791613
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.021527
+(DEBUG): Removing bst
+(DEBUG): ...result was 8.286208
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 32000 movies
+(INFO): Adding movies 32000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.021262
+(DEBUG): Adding to bst
+(DEBUG): ..result was 8.046254
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 32000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.800969
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.015580
+(DEBUG): Searching bst
+(DEBUG): ...result was 7.181184
+(INFO): Writing movies 32000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.003570
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.004283
+(INFO): Removing movies 32000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.796594
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.027472
+(DEBUG): Removing bst
+(DEBUG): ...result was 8.987413
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 33000 movies
+(INFO): Adding movies 33000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.015041
+(DEBUG): Adding to bst
+(DEBUG): ..result was 8.591057
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 33000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.798970
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.013455
+(DEBUG): Searching bst
+(DEBUG): ...result was 7.550582
+(INFO): Writing movies 33000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.004177
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.005181
+(INFO): Removing movies 33000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.799000
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.023218
+(DEBUG): Removing bst
+(DEBUG): ...result was 9.452116
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 34000 movies
+(INFO): Adding movies 34000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.017237
+(DEBUG): Adding to bst
+(DEBUG): ..result was 9.140244
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 34000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.800059
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.014635
+(DEBUG): Searching bst
+(DEBUG): ...result was 8.916683
+(INFO): Writing movies 34000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.004246
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.004848
+(INFO): Removing movies 34000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.801824
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.026551
+(DEBUG): Removing bst
+(DEBUG): ...result was 9.870990
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 35000 movies
+(INFO): Adding movies 35000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.017694
+(DEBUG): Adding to bst
+(DEBUG): ..result was 9.432340
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 35000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.804857
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.014337
+(DEBUG): Searching bst
+(DEBUG): ...result was 10.191339
+(INFO): Writing movies 35000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.004662
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.005765
+(INFO): Removing movies 35000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.805457
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.029279
+(DEBUG): Removing bst
+(DEBUG): ...result was 11.308519
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 36000 movies
+(INFO): Adding movies 36000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.015213
+(DEBUG): Adding to bst
+(DEBUG): ..result was 10.572703
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 36000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.811389
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.014982
+(DEBUG): Searching bst
+(DEBUG): ...result was 9.340052
+(INFO): Writing movies 36000 in each data structure
+(DEBUG): Writing avl
+(DEBUG): ...result was 0.004972
+(DEBUG): Writing bst
+(DEBUG): ...result was 0.005688
+(INFO): Removing movies 36000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.807111
+(DEBUG): Removing sorted vector
+(DEBUG): ...result was 0.026174
+(DEBUG): Removing bst
+(DEBUG): ...result was 11.480757
+(DEBUG): Adding the AVL rotations
+(INFO): Finished running tests
+
+(INFO): Running Tests on 37000 movies
+(INFO): Adding movies 37000 to each data structure
+(DEBUG): Adding to avl
+(DEBUG): ...result was 0.020693
+(DEBUG): Adding to bst
+(DEBUG): ..result was 11.101432
+(DEBUG): Adding the AVL rotations
+(DEBUG): Adding the AVL and BST heights
+(INFO): Searching for movies 37000 in each data structure
+(DEBUG): Building sample indexes
+(DEBUG): ... Percent that are findable: 0.812973
+(DEBUG): Searching avl
+(DEBUG): ...result was 0.018289
+(DEBUG): Searching bst
+(DEBUG): ...result was 10.450330
+(INFO): Writing movies 37000 in ea
